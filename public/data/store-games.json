@@ -1,0 +1,16 @@
+{
+    "games": [
+        {
+            "name": "Zelda"
+        },
+        {
+            "name": "Spiderman"
+        },
+        {
+            "name": "Anno 1800"
+        },
+        {
+            "name": "Frostpunk"
+        }
+    ]
+}

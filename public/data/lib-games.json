@@ -1,0 +1,16 @@
+{
+    "games": [
+        {
+            "name": "Call of Duty"
+        },
+        {
+            "name": "Battlefield"
+        },
+        {
+            "name": "Homeworld"
+        },
+        {
+            "name": "Max Payne"
+        }
+    ]
+}
